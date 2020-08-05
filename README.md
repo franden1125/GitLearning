@@ -6,3 +6,4 @@ user a add 2
 user a push 1
 user a  push  2
 user c push 1th
+user c push 2th
