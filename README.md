@@ -1,3 +1,3 @@
 # GitLearning
 -  build a file
-user b add 1
+user c add 1
