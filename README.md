@@ -3,6 +3,6 @@
 user c add 1
 user_A add 1
 user a add 2
-user a push 1
+user a push 1qweqw
 user a  push  2
 wer
